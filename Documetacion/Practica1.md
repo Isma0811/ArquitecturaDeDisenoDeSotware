@@ -32,6 +32,8 @@ Vazquez Garcia Nahum Josue IS21111282
 <p align="center"> <b>Tema: </b> Dominancia Cerebral</p>
 
 ## Entendimiento y descripción del Problema
+La dominancia cerebral es muy util en diversas evaluaciones en las que se necesita identificar la forma de trabajar y el desempeño en distintas habilidades, esto dependiendo de que tipo de dominancia llegue a tener cada persona, por lo que para considerar a alguien para un puesto en específico, conocer este dato de la persona seria de utilidad para considerarlo o no, al igual que se puede hacer en alumnos para conocer las necesidades y poder tener un mejor desempeño Profesor-Alumno.
+Sin embargo tener acceso a esta información de forma clara precisa y sin ser invasiva con el usuario, es decir no exponerlo a estimulos como una entrevista cara a cara en la que su comportamiento y respuestas puedan ser poco naturales, es poco comun, por lo que una pagina donde tu puedas crear un evento unico para hacer una encuesta a un grupo de personas determinadas en la que solo tu tengas los resultados sin la capacidad de ser alterados, seria muy util para los casos antes mecionados.
 ## Descomposición de los elementos del problema
 ## Diagrama de clases de la integración
 ## Diagramas UML
